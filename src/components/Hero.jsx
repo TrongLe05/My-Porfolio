@@ -4,7 +4,7 @@ function Hero({ name, job }) {
       <div className="hero-content">
         <div className="hero-avatar">
           <img
-            src="../public/projects/avatar.jpg"
+            src="/projects/avatar.jpg"
             alt={name}
             className="hero-avatar-img"
           />
