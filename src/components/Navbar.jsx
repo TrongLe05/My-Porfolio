@@ -29,9 +29,7 @@ function Navbar() {
   return (
     <nav className="navbar">
       <div className="nav-container">
-        <a href="#hero" className="nav-logo">LMT</a>
-
-        <ul className={`nav-links ${open ? "open" : ""}`}>
+          <ul className={`nav-links ${open ? "open" : ""}`}>
           {links.map((link) => (
             <li key={link.href}>
               <a href={link.href} onClick={() => setOpen(false)}>
