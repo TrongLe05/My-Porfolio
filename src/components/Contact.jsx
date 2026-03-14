@@ -8,7 +8,7 @@ function Contact() {
       <div className="contact-links">
         <a href="mailto:leminhtrong0901@gmail.com" className="contact-item">
           <span className="contact-icon"><img src="https://img.icons8.com/?size=100&id=eFPBXQop6V2m&format=png&color=000000" alt="Email-Icon" /></span>
-          <span>leminhtrong0901@gmail.com</span>
+          <span>Gmail</span>
         </a>
         <a
           href="https://github.com/TrongLe05"
