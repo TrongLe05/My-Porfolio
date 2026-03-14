@@ -6,12 +6,12 @@ function Contact() {
         Bạn có dự án muốn hợp tác hoặc muốn trao đổi thêm? Hãy liên hệ với mình!
       </p>
       <div className="contact-links">
-        <a href="mailto:contact@example.com" className="contact-item">
+        <a href="mailto:leminhtrong0901@gmail.com" className="contact-item">
           <span className="contact-icon"><img src="https://img.icons8.com/?size=100&id=eFPBXQop6V2m&format=png&color=000000" alt="Email-Icon" /></span>
           <span>leminhtrong0901@gmail.com</span>
         </a>
         <a
-          href="https://github.com"
+          href="https://github.com/TrongLe05"
           target="_blank"
           rel="noopener noreferrer"
           className="contact-item"
@@ -20,7 +20,7 @@ function Contact() {
           <span>GitHub</span>
         </a>
         <a
-          href="https://linkedin.com"
+          href="https://www.linkedin.com/in/trongle05/"
           target="_blank"
           rel="noopener noreferrer"
           className="contact-item"
